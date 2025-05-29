@@ -3,7 +3,7 @@
     width: 100%;
     min-height: 100vh;
     padding: 115px 10vw 80px;
-    background: hsla(0, 0%, 100%, 0.99);
+    background: #e3e3e387;
 }
 
 .hero-container .hero-background {
@@ -58,16 +58,16 @@
     width: 80%;
     font-family: "Fenix", serif;
     margin-top: 5px;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 19.5px;
     letter-spacing: 0.2px;
-    color: var(--background);
+    color: black;
 }
 
 .hero-top p span {
     font-weight: 600;
     font-size: 18.5px;
-    color: var(--accent);
+    color: hsl(219, 100%, 33%);
 }
 
 .hero-top .hero-btn {
@@ -99,7 +99,7 @@
 
 .hero-base img {
     width: 100%;
-    border: 3px solid var(--sBackground-shade);
+    border: 3px solid whitesmoke;
     border-radius: 15px;
 }
 
@@ -137,7 +137,7 @@
     }
 
     .hero-top p span {
-        font-size: 16.5px;
+        font-size: 17px;
     }
     
     .hero-top .hero-btn {
@@ -159,7 +159,7 @@
     
     .hero-base img {
         width: 100%;
-        border: 2px solid var(--sBackground-shade);
+        border: 2px solid whitesmoke;
     }
 }
 

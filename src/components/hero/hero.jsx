@@ -6,7 +6,7 @@ function Hero() {
         <div className="hero-wrap">
             <div className="hero-container">
                 <div className="hero-background">
-                    <img src={Images.heroBackground} alt="" />
+                    <img src={Images.management} alt="" />
                 </div>
                 <div className="hero">
                     <div className="hero-top">
